@@ -1,0 +1,11 @@
+{
+  "app": {
+    "serverName": "localhost",
+    "portRun": ":8020",
+    "serverURL": "192.168.150.70",
+    "logFile": "curr.log"
+  },
+  "postgresParams": {
+    "database": "./currency.db"
+  }
+}
